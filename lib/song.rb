@@ -13,7 +13,7 @@ class Song
     song = self.new
     song.name = name
     self.all << song
-    #song
+    song
   end
    
 
